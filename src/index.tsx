@@ -13,7 +13,7 @@ createServer({
 
     this.get("/transactions", () => [
       {
-        title: "New transiction",
+        title: "New transaction",
         value: 500,
         category: "Food",
         date: "02/20/2022"
